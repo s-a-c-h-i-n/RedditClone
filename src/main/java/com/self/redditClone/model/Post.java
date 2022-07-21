@@ -10,7 +10,7 @@ import javax.persistence.Lob;
 import javax.persistence.ManyToOne;
 import javax.validation.constraints.NotBlank;
 
-import org.apache.catalina.User;
+
 import org.springframework.lang.Nullable;
 
 import lombok.AllArgsConstructor;
